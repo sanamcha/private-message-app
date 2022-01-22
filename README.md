@@ -29,8 +29,8 @@ In order to make it easier to keep secret things secret, it also will try to rea
 If you create a file like this:
 
 .env
-`SECRET_KEY = abc123
-This config.js file will read and use it.`
+`SECRET_KEY = abc123`
+This config.js file will read and use it.
 
 `middleware/auth.js`
 
